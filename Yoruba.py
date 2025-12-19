@@ -1,6 +1,6 @@
 # Yoruba to English Dictionary (20 words)
 
-yoruba_dictionary = {
+yoruba_dictionary = { #by Matthew Folat
     "ẹ̀káàrọ̀": "Good morning",
     "ẹ̀káàsán": "Good afternoon",
     "ẹ̀káalẹ́": "Good evening",
@@ -22,5 +22,6 @@ yoruba_dictionary = {
     "ọlọ́run": "God",
     "ọjọ́": "Day"
 }
+
 
 
