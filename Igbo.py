@@ -102,7 +102,7 @@ dictionary = {
 "Efik": { #by Asor Godsword Julius 
         'Good morning': 'M̀bọ̀rọ̀ úyọ̀',
         'Good afternoon': 'M̀bọ̀rọ̀ ẹ̀títí',
-        ‘Good night': 'M̀bọ̀rọ̀ úkúm',
+        'Good night': 'M̀bọ̀rọ̀ úkúm',
         'Mother': 'Ekame',
         'book': 'Akpa akwụkwọ',
         'phone': 'Fọn',
@@ -146,6 +146,7 @@ elif choice == "2":
 
 else:
     print("Invalid choice.")
+
 
 
 
