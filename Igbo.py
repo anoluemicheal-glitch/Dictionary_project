@@ -25,6 +25,7 @@ nigerian_languages = {
         }
     }
 }
+
 # Translational Igbo ↔ English Dictionary
 
 dictionary = {
@@ -75,4 +76,5 @@ elif choice == "2":
 
 else:
     print("Invalid choice.")
+
 
