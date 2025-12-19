@@ -1,5 +1,5 @@
 
-english_to_igala = {
+english_to_igala = { #by Kamsi chukwumampkam
     "Hello": "Adoo",
     "Goodbye": "O dabo",
     "Thank you": "Ojo",
@@ -21,3 +21,4 @@ english_to_igala = {
     "Morning": "Ojo-ola",
     "Night": "Ojo-ane"
 }
+
