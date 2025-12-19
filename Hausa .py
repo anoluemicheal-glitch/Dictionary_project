@@ -25,3 +25,4 @@ nigerian_languages = {
         }
     }
 }
+
