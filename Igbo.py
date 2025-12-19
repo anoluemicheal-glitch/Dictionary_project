@@ -99,7 +99,28 @@ dictionary = {
     "azu": "fish",
     "anya": "eye"
 }
-
+"Efik": { #by Asor Godsword Julius 
+        'Good morning': 'M̀bọ̀rọ̀ úyọ̀',
+        'Good afternoon': 'M̀bọ̀rọ̀ ẹ̀títí',
+        ‘Good night': 'M̀bọ̀rọ̀ úkúm',
+        'Mother': 'Ekame',
+        'book': 'Akpa akwụkwọ',
+        'phone': 'Fọn',
+        'teacher': 'Nkọñọ',
+        'car': 'Mọ́tò',
+        'God': 'Abasi',
+        'dog': 'Nkpọ́',
+        'Water': 'Mmi',
+        'hand': 'Ikọ́',
+        'leg': 'Ekpẹ́',
+        'prayer': 'Nsọ́ọ̀fọ̀',
+        'food': 'Ịdọ́ñ',
+        'cloth': 'Uto',
+        'family': 'Ufọk',
+        'animal': 'Nkpọ̀ñ',
+        'Thanks': 'Ẹsé',
+        'Child': 'Ndịọ́bó'
+    },
 # Create reverse dictionary (English → Igbo)
 reverse_dictionary = {value: key for key, value in dictionary.items()}
 
@@ -125,6 +146,7 @@ elif choice == "2":
 
 else:
     print("Invalid choice.")
+
 
 
 
